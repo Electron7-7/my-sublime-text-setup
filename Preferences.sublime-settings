@@ -1,0 +1,20 @@
+{
+	"ignored_packages":
+	[
+		"Rust",
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Adaptify Mariana.sublime-color-scheme",
+	"dark_theme": "Default.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+	"reveal_menu": false,
+	// "auto_hide_menu": true,
+	"index_files": true,
+	"font_size": 14,
+	"hide_tab_scrolling_buttons": true,
+	"hide_new_tab_button": true,
+	"show_line_column": "compact",
+	"enable_tab_scrolling": false,
+	"sublime_merge_path": "/opt/sublime_merge/sublime_merge",
+}
